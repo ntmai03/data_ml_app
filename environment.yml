@@ -24,6 +24,15 @@ dependencies:
   - requests
   - flask
 
+  - streamlit
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost
+  - boto3
+  - plotly  
+
   - pip:
     - watermark
     - pytest
